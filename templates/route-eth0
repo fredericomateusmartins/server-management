@@ -1,0 +1,5 @@
+# Needed Routes
+10.20.3.0/24 via GWOEM dev eth0
+
+# More Needed Routes
+212.180.190.0/24 via GWOEM dev eth0
