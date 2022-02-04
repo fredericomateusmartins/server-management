@@ -42,7 +42,7 @@ class Parser(object):
                                        RHEL Server 
                                        Management Tools
                                     '''), epilog=dedent('''\
-                                    Check the git repository at https://github.com/flippym/server-management/,
+                                    Check the git repository at https://github.com/fredericomateusmartins/server-management/,
                                     for more information about usage, documentation and bug report.'''))
 
         self.subparser = self.parser.add_subparsers(title='Positional', help='To see available options, use --help with each command', 
